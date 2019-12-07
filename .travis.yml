@@ -20,6 +20,7 @@ after_success:
   - docker push puneetvashisht/multi-nginx
   - docker push puneetvashisht/multi-server
   - docker push puneetvashisht/multi-worker
+  #one more
 # deploy:
 #   provider: elasticbeanstalk
 #   region: us-west-1
